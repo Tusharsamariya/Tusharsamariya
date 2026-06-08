@@ -1,3 +1,34 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e3a8a&text=Tushar%20Samariya&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Undergraduate%20at%20IIT%20Bombay%20"/>
+</p>
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th width="35%">🏆 Achievement</th>
+<th width="65%">📋 Details</th>
+</tr>
+
+<tr>
+<td><b>SuRaksha Hackathon</b></td>
+<td>Shortlisted for Prototype Phase (Top 135) • <b>DocuScan</b> • Project Lead</td>
+</tr>
+
+<tr>
+<td><b>Quick Basket Business Analysis</b></td>
+<td>Retail analytics project focused on customer behavior, product performance, and business intelligence.</td>
+</tr>
+
+<tr>
+<td><b>IIT Bombay</b></td>
+<td>B.Tech • Indian Institute of Technology Bombay</td>
+</tr>
+
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -7,20 +38,18 @@
 
 ### 🔎 DocuScan
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![ZKP](https://img.shields.io/badge/ZKP-6A1B9A?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ML](https://img.shields.io/badge/ML-blue?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-green?style=flat-square)
+![ZKP](https://img.shields.io/badge/ZKP-purple?style=flat-square)
 
-**Privacy-Preserving Document Verification**
+Privacy-preserving document forgery detection system.
 
-Real-time document forgery detection system built for secure banking and underwriting workflows.
-
-✨ Pixel-level tamper detection  
-✨ Font consistency analysis  
-✨ NLP-based validation engine  
-✨ Zero-Knowledge Proof verification  
-✨ Trust Score generation (0–100)
+- Pixel-level tamper detection
+- Font consistency verification
+- NLP validation engine
+- Zero-Knowledge Proof verification
+- Trust Score generation
 
 🏅 **SuRaksha Hackathon — Top 135**
 
@@ -30,19 +59,16 @@ Real-time document forgery detection system built for secure banking and underwr
 
 ### 📊 Quick Basket Business Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-FF9800?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![BI](https://img.shields.io/badge/Business_Intelligence-009688?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Analytics](https://img.shields.io/badge/Analytics-orange?style=flat-square)
 
-**Retail Analytics & Business Intelligence**
+Retail transaction analytics project.
 
-Data-driven analysis of transaction datasets to uncover customer behavior and product performance trends.
-
-📈 Customer engagement tracking  
-📈 Product diversity analysis  
-📈 Executive-level insight generation  
-📈 Actionable business recommendations
+- Customer behavior analysis
+- Product diversity tracking
+- Business intelligence reporting
+- Strategic recommendations
 
 🎓 **Analytics Club, IIT Bombay**
 
@@ -50,3 +76,39 @@ Data-driven analysis of transaction datasets to uncover customer behavior and pr
 
 </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-FF9800?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
