@@ -12,7 +12,7 @@
 
 <tr>
 <td><b>SuRaksha Hackathon</b></td>
-<td>Shortlisted for Prototype Phase (Top 135) • <b>DocuScan</b> • Project Lead</td>
+<td>Shortlisted for Prototype Phase (Top 135) • <b>DocuScan</b> </td>
 </tr>
 
 <tr>
