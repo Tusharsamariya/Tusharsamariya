@@ -112,3 +112,15 @@ Retail transaction analytics project.
 </a>
 
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
+<!---LeetCode Topics End-->
