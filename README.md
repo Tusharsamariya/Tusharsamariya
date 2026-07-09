@@ -123,4 +123,20 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
