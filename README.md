@@ -131,6 +131,7 @@ Retail transaction analytics project.
 | [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -139,6 +140,7 @@ Retail transaction analytics project.
 | [0094-binary-tree-inorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -152,6 +154,7 @@ Retail transaction analytics project.
 | [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -179,4 +182,5 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
