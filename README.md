@@ -120,6 +120,7 @@ Retail transaction analytics project.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Retail transaction analytics project.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0572-subtree-of-another-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Retail transaction analytics project.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0572-subtree-of-another-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -170,6 +173,7 @@ Retail transaction analytics project.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -183,4 +187,9 @@ Retail transaction analytics project.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
