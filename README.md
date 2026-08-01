@@ -121,6 +121,7 @@ Retail transaction analytics project.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
@@ -152,6 +153,7 @@ Retail transaction analytics project.
 | ------- |
 | [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,4 +205,5 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
