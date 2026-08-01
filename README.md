@@ -120,6 +120,7 @@ Retail transaction analytics project.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
@@ -142,6 +143,7 @@ Retail transaction analytics project.
 | [0094-binary-tree-inorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0572-subtree-of-another-tree) |
@@ -149,6 +151,7 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,4 +195,12 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
