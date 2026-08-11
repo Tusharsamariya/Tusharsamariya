@@ -206,4 +206,16 @@ Retail transaction analytics project.
 | ------- |
 | [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0994-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
