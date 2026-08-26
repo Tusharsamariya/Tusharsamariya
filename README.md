@@ -120,6 +120,7 @@ Retail transaction analytics project.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -187,6 +188,7 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -218,4 +220,20 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
