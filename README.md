@@ -211,6 +211,7 @@ Retail transaction analytics project.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -236,4 +237,8 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
