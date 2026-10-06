@@ -118,6 +118,7 @@ Retail transaction analytics project.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
@@ -224,6 +225,7 @@ Retail transaction analytics project.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
 ## Sorting
 |  |
