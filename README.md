@@ -123,6 +123,7 @@ Retail transaction analytics project.
 | [0134-gas-station](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0238-product-of-array-except-self) |
 | [0994-rotting-oranges](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
@@ -243,4 +244,8 @@ Retail transaction analytics project.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Tusharsamariya/Tusharsamariya/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
